@@ -113,3 +113,16 @@ void loop() {
 3. Visualizar los datos en la pantalla LCD.
 4. Colocar la distancia dando *doble click* al sensor **HC-SR04** 
 5. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11**
+
+## Resultados
+
+Una vez terminado iniciamos simulacion y se observaran los valores en la lcd.
+
+![](https://github.com/DanielX834/PRACTICA-N5/blob/main/6Resultado1.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N5/blob/main/7Resultado2.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N5/blob/main/8Resultado3.jpg?raw=true)
+
+# Créditos
+Desarrollado por Ing. Daniel Armenta
